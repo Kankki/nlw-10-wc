@@ -1,8 +1,8 @@
 function createGame(player1, hour, player2) {
   return `
     <li>
-      <img src="./Assets/flags/icon=${player1}.svg" alt="Qatar Flag" />usb c hub
-      <strong>${hour}</strong>hdmi to ucb chdmi to ucb c adapter
+      <img src="./Assets/flags/icon=${player1}.svg" alt="Qatar Flag" />
+      <strong>${hour}</strong>
       <img src="./Assets/flags/icon=${player2}.svg" alt="Ecuador Flag" />
     </li>
   `
